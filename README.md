@@ -1,6 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/AristurtleDev/ArisDocGenerator/main/.github/images/aris-doc-generator-banner.png" alt="ArisDocGenerator Logo">
 <br/>
+A Cross Platform C# Application For XML to Markdown Documentation
 A Cross Platform C# Library for Reading Aseprite Files
 
 [![License: MIT](https://img.shields.io/badge/📃%20license-MIT-blue?style=flat)](LICENSE)
