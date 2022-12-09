@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/AristurtleDev/ArisDocGenerator/main/.github/aris-doc-generator-banner.png" alt="ArisDocGenerator Logo">
+<img src="https://raw.githubusercontent.com/AristurtleDev/ArisDocGenerator/main/.github/images/aris-doc-generator-banner.png" alt="ArisDocGenerator Logo">
 <br/>
 How To Contribute To ArisDocGenerator
 </h1>
